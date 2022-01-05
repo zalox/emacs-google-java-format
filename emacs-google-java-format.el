@@ -51,7 +51,7 @@
   "Jar name for google-java-format.")
 
 (defvar emacs-google-java-format-release-url
-  "https://github.com/google/google-java-format/releases/download/google-java-format-1.13.0/"
+  "https://github.com/google/google-java-format/releases/download/v1.13.0/"
   "URL to jar to use for google-java-format jar download.")
 
 (defvar emacs-google-java-format-fail-token
