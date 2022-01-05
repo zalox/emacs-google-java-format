@@ -5,7 +5,7 @@
 ;; Author: Philipp Fehre <philipp@fehre.co.uk>
 ;; Homepage: https://github.com/sideshowcoder/emacs-google-java-format
 
-;; Version: 1.0.0
+;; Version: 1.0.1
 ;; Keywords: tools
 
 ;; Copyright 2018 Philipp Fehre
@@ -47,11 +47,11 @@
 (require 'cc-vars)
 
 (defvar emacs-google-java-format-jar-name
-  "google-java-format-1.5-all-deps.jar"
+  "google-java-format-1.13.0-all-deps.jar"
   "Jar name for google-java-format.")
 
 (defvar emacs-google-java-format-release-url
-  "https://github.com/google/google-java-format/releases/download/google-java-format-1.5/"
+  "https://github.com/google/google-java-format/releases/download/google-java-format-1.13.0/"
   "URL to jar to use for google-java-format jar download.")
 
 (defvar emacs-google-java-format-fail-token
